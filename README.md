@@ -24,3 +24,9 @@ samples, guidance on mobile development, and a full API reference.
 - git add .
 - git commit -m "feat: add Hello World! home screen"
 - git push
+
+- git pull
+git add .
+git commit -m "docs(readme): add terminal instructions"
+git push -u origin feature/home-screen
+
